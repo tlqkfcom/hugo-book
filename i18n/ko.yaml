@@ -1,14 +1,14 @@
 - id: Search
-  translation: Search
+  translation: 검색
 
 - id: Edit this page
-  translation: Edit this page
+  translation: 이 페이지 편집
 
 - id: Last modified by
-  translation: Last modified by
+  translation: 마지막으로 수정한 사람
 
 - id: Expand
-  translation: Expand
+  translation: 확장
 
 - id: bookSearchConfig
   translation: |
